@@ -17,10 +17,11 @@ Data Specification: The dataset has 1470 rows and 35 columns. Rows are observati
 **FEATURES:**
 
 **AGE :**  
-  <div align=”center”>![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/442cbfb4-da0a-4081-a67f-a03c7f438f94)</div>  
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/442cbfb4-da0a-4081-a67f-a03c7f438f94)
 
-In 18-21 age group, young employees are more likely to leave the company. Their attrition proportion to their age group is approximately 53.7% (22 out of 41) and that makes up 9% of all attrition (22 out of 237). If we evaluate overall attrition number in the company, 26-35 age group's attrition number is the highest comparing to other age groups. In this age group, we have 19.1 % of employee attrition(116 out 606). That makes up approximately 49% of all attrition in the company (116 out of 237).35-60 age group generally prefers to secure their job in the same company.  
-Business Travel:  
+In 18-21 age group, young employees are more likely to leave the company. Their attrition proportion to their age group is approximately 53.7% (22 out of 41) and that makes up 9% of all attrition (22 out of 237). If we evaluate overall attrition number in the company, 26-35 age group's attrition number is the highest comparing to other age groups. In this age group, we have 19.1 % of employee attrition(116 out 606). That makes up approximately 49% of all attrition in the company (116 out of 237).35-60 age group generally prefers to secure their job in the same company.    
+
+**BUSINESS TRAVEL :**  
  
 ​  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/e7d61c1e-9f0b-4882-9662-838238a92652)  
 
@@ -29,6 +30,7 @@ The highest attrition number with 156 belongs to the employees who travels rarel
 if we look at the attrition percentage of relevant travel group, the employees who are traveling frequently are in the danger zone. Because they have the highest attrition proportion, which is 24.9%, in their individual travel group(69 out of 277). That group's attrition rate composes of the 29.1% of overall attrition in the company (69 out of 237).  
 
 **Department:**    
+
   ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/b8a4adc1-e665-4454-89f0-ad4db8a86b05)  
 
 There are three departments in the company. Research & Development Department has the most attrition number in the company. 13.8% of Research & Development Department employee left the organization. In numbers, it is equal to 133, which makes us the 56.1% of all attrition in the company. Actually, this attrition is a big number for company, but compared with other departments, Research & Development Department has the lowest attrition rate in itself as an individual department. Sales Department has mostly been affected by the attrition. Because 20.6% of its employees left the organization. This is the highest number compared to the other two departments. That attrition makes up 38.8% of the attrition in the company (92 out of 237). Human Resources Department follows the Sales Department in terms of being affected by attrition itself. 19% of that department employee left the company. But this is not that huge number in terms of whole attrition in company. Human Resources Department employee attrition makes up 5% of all attrition in the company (12 out of 237).  
@@ -49,48 +51,65 @@ Employees who have bachelor’s degree have the most attrition number (99 employ
 
   ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/ab30c181-4a87-4214-b2da-1701fe7f6d28)  
 
-Employees who have Life Science education level have the most attrition number which makes up the 37.5% of all attrition (89 out of 237). But that composes only 14.7% of attrition within Life Sciences field. Medical education level have the second highest attrition number which makes up the 13.57% of all attrition (63 out of 237). But that composes only 14.7% of attrition within Life Sciences field. Besides that, Human Resources, Technical Degree, and Marketing fields are mostly affected by the attrition respectively. Their approximately 22-26% employees left the company.  
-**ENVIRONMENT SATISFACTION :**   
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/c656bc39-58b0-4848-b877-e0a4aeab1e32)    
-As it may be expected, there is a high attrition rate in the low satisfaction environment. That composes the 30.4 % of the whole company's attrition. Shockingly, in the high and very high satisfaction environment, there are still 13.7 % of the these each group's employees leave the company. That attrition composes of the 51.5 % of the whole company's attrition. This result might tell us that environment satisfaction is not the one of the main reasons for attrition in the company.    
+Employees who have Life Science education level have the most attrition number which makes up the 37.5% of all attrition (89 out of 237). But that composes only 14.7% of attrition within Life Sciences field. Medical education level have the second highest attrition number which makes up the 13.57% of all attrition (63 out of 237). But that composes only 14.7% of attrition within Life Sciences field. Besides that, Human Resources, Technical Degree, and Marketing fields are mostly affected by the attrition respectively. Their approximately 22-26% employees left the company.    
 
+**ENVIRONMENT SATISFACTION :**  
+
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/c656bc39-58b0-4848-b877-e0a4aeab1e32)    
+As it may be expected, there is a high attrition rate in the low satisfaction environment. That composes the 30.4 % of the whole company's attrition. Shockingly, in the high and very high satisfaction environment, there are still 13.7 % of the these each group's employees leave the company. That attrition composes of the 51.5 % of the whole company's attrition. This result might tell us that environment satisfaction is not the one of the main reasons for attrition in the company.     
+ 
 **GENDER :**  
+
   ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/6587b676-dd2f-4c16-a38f-0e8811d4fdb4)  
 Male employees are more likely to leave the company than female employees.  
 
-**JOB SATISFACTION :**  
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/d6d5d291-c80c-4721-93f1-86ebd2d859f2)  
-I found quite interesting insight for job satisfaction, which may be quite counter-intuitive:In high job satisfaction, surprisingly employees leave the company most and their attrition composes 30.8% of company's attrition. From this picture, I assume that job satisfaction should not be the main reason for employees to leave the company. As it may be expected, in low job satisfaction, employees leave the company more than other groups except high satisfaction. They compose 27.8% of all attrition in the company.
+**JOB SATISFACTION :**    
 
-**MONTHLY INCOME :**  
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/d6d5d291-c80c-4721-93f1-86ebd2d859f2)    
+  
+I found quite interesting insight for job satisfaction, which may be quite counter-intuitive:In high job satisfaction, surprisingly employees leave the company most and their attrition composes 30.8% of company's attrition. From this picture, I assume that job satisfaction should not be the main reason for employees to leave the company. As it may be expected, in low job satisfaction, employees leave the company more than other groups except high satisfaction. They compose 27.8% of all attrition in the company.  
+ 
+**MONTHLY INCOME :**    
 
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/2d947321-0ba1-48ab-b65c-94c80281c545)  
-
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/2d947321-0ba1-48ab-b65c-94c80281c545)   
+  
 2000-3000 dollars monthly income level, there is a high attrition and it compose the 40% of attrition in the company.
 
 1000-2000 dollars monthly income level, there is a high attrition in its own income group level, which is 54.5%.
 
-As the monthly income increase, it is observed that there is a decrease in attrition. But, in 9000-11000 dollars monthly income level, there is a rise in attrition of its own monthly income group level.  
+As the monthly income increase, it is observed that there is a decrease in attrition. But, in 9000-11000 dollars monthly income level, there is a rise in attrition of its own monthly income group level.    
+
 **NUMBER OF COMPANIES WORKED :**  
 
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/5a05bcac-00a9-4262-af94-51daccb64d61)  
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/5a05bcac-00a9-4262-af94-51daccb64d61)    
+  
 If employees have one company experience before current company, they are more likely to leave the company. They have the highest attrition number and compose of 41.3% all attrition in the company. Besides, if employees don't have any experience in other company, they have the second most attrition number.
 
 Also, employees, who has more experience such as working in 5,6,7, and 9 companies before the current company, have the highest attrition in their individual experienced group.  
 
-**Over time :**  
+**OVER TIME :**    
 
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/3f27acc8-f4c6-42e5-9e01-c96f83f67759)  
-28.3% of employees have the over time work in the company and they have higher attrition number than employees who don't have. There is not a significant difference between these two groups' attrition number. But if you compare individually both groups, over time employees are much more likely to leave the company.  
-**PERCENT SALARY HIKE :** 
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/1334d22d-a317-4f4e-8f65-ded6970946bf)  
-As it may be expected, the higher percent salary hike is, the more employees are likely and willingly to stay in the current company. The employees who have the highest percent salary hikes are more likely to leave the company. The reason for that might be due to the fact that they are more qualified and have the chance to find better position in other companies or due to the retirement.  
-**WORK LIFE BALANCE:**  
-​  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/53b0f3b6-08ab-4795-8ae5-da4b69310a81)  
-In general, work life balance is satisfactorily good throughout the company. But we have the highest attrition number and percentage throughout the company.Besides, bad work life balance group has highest attrition percentage in its individual group.  
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/3f27acc8-f4c6-42e5-9e01-c96f83f67759)   
+  
+28.3% of employees have the over time work in the company and they have higher attrition number than employees who don't have. There is not a significant difference between these two groups' attrition number. But if you compare individually both groups, over time employees are much more likely to leave the company.    
+
+**PERCENT SALARY HIKE :**   
+
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/1334d22d-a317-4f4e-8f65-ded6970946bf)    
+  
+As it may be expected, the higher percent salary hike is, the more employees are likely and willingly to stay in the current company. The employees who have the highest percent salary hikes are more likely to leave the company. The reason for that might be due to the fact that they are more qualified and have the chance to find better position in other companies or due to the retirement.    
+
+**WORK LIFE BALANCE:**    
+
+​  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/53b0f3b6-08ab-4795-8ae5-da4b69310a81)    
+
+In general, work life balance is satisfactorily good throughout the company. But we have the highest attrition number and percentage throughout the company.Besides, bad work life balance group has highest attrition percentage in its individual group.    
+
 **YEARS AT COMPANY :**  
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/8ba15e7f-e4a7-4b83-a98d-dc99f6357bae)  
-Employees who have one year or less working experience in the company has the highest attrition percentage in its individual experience group (34.9% of attrition in the relevant group). Besides that, highest attrition number, which is 87 employees, is in the 2-5 years working experience at the company and that composes of the 36.7 % of all attrition in the company.  
+  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/8ba15e7f-e4a7-4b83-a98d-dc99f6357bae)   
+  
+Employees who have one year or less working experience in the company has the highest attrition percentage in its individual experience group (34.9% of attrition in the relevant group). Besides that, highest attrition number, which is 87 employees, is in the 2-5 years working experience at the company and that composes of the 36.7 % of all attrition in the company.    
+
 # CORRELATION MATRIX :
 In this section, i have depicted the correlation matrix obtained for our case, which is one of the statistical analysis concept, used to determine how each variables correlate with the other variables. It helps in the identification of patterns and dependencies within a dataset giving a much more comprehensive understanding of combined effect of the variables.  
 
