@@ -95,81 +95,81 @@ In this section, i have depicted the correlation matrix obtained for our case, 
 ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/699a682a-8a8e-4249-86d1-57984ea3e519)  
 Based on the fact which is given strength of correlation chart, we can identify the features which have strong, moderate, weak and zero correlations between each other. I will just outline the strong and moderate correlations here.  
 **Features which have strong correlations:**  
--Percent Salary Hike and Performance Rating,
+- Percent Salary Hike and Performance Rating,
 
--Total Working Years, Monthly Income and Job Level,
+- Total Working Years, Monthly Income and Job Level,
 
--Years at Company, Years with Current Manager, and Years in Current Role,
+- Years at Company, Years with Current Manager, and Years in Current Role,
 
 
 
 **Features which have moderate correlations:**
 
--Age has moderate correlation with Total Working Years, Monthly Income, and Job Level,
+- Age has moderate correlation with Total Working Years, Monthly Income, and Job Level,
 
--Job Level has moderate correlation with Years at Company and Age,
+- Job Level has moderate correlation with Years at Company and Age,
 
--Total Working Years has moderate correlation with Years with Current Manager, Years Since Last Promotion, Years in Current Role, Years at Company, and Age,
+- Total Working Years has moderate correlation with Years with Current Manager, Years Since Last Promotion, Years in Current Role, Years at Company, and Age,
 
--Years at Company has moderate correlation with Years Since Last Promotion, Total Working Years, Monthly Income, Job Level,
+- Years at Company has moderate correlation with Years Since Last Promotion, Total Working Years, Monthly Income, Job Level,
 
--Years in Current Role has moderate correlation with Years Since Last Promotion, Total Working Years,
+- Years in Current Role has moderate correlation with Years Since Last Promotion, Total Working Years,
 
--Years Since Last Promotion has moderate correlation with Years with Current Manager, Years in Current Role, Years at Company, Total Working Years,
+- Years Since Last Promotion has moderate correlation with Years with Current Manager, Years in Current Role, Years at Company, Total Working Years,
 
--Years with Current Manager has moderate correlation with Years Since Last Promotion, Total Working Years.
+- Years with Current Manager has moderate correlation with Years Since Last Promotion, Total Working Years.
 
 
 
 # SUMMARIZING THE KEY INSIGHTS GENERATED :
 
--There are 1470 employees in the company and 16% of them left the company. We have some data about employees       to examine the attrition reasons. To sum our exploratory data analysis : 
+- There are 1470 employees in the company and 16% of them left the company. We have some data about employees       to examine the attrition reasons. To sum our exploratory data analysis : 
 
--Young employees (18-25 years old) compose the 8.4% of the company and they are more likely to leave the company than other age groups. As the employees get older, their attrition percentages drop.
+- Young employees (18-25 years old) compose the 8.4% of the company and they are more likely to leave the company than other age groups. As the employees get older, their attrition percentages drop.
 
--Employees who travel rarely or don't travel according to their job description compose the 81.1% of entire company. 18.8% of the employees travels frequently and they have the highest attrition percentage(25%).
+- Employees who travel rarely or don't travel according to their job description compose the 81.1% of entire company. 18.8% of the employees travels frequently and they have the highest attrition percentage(25%).
 
--30.3% of employees work in the Sales department and they have the highest attrition percentage (20.6%). Human Resources employees who compose the 4.3% of company, are the second highest attrition percentage(19%). Research and Development Department has 65.4% employee in the company and they have the lowest attrition percentage(13.8%).
+- 30.3% of employees work in the Sales department and they have the highest attrition percentage (20.6%). Human Resources employees who compose the 4.3% of company, are the second highest attrition percentage(19%). Research and Development Department has 65.4% employee in the company and they have the lowest attrition percentage(13.8%).
 
--As the distance between company and employees’ homes increases, the attrition percentage increases.
+- As the distance between company and employees’ homes increases, the attrition percentage increases.
 
--11.6% of employees has below college degree and highest attrition percentage(18.2%). Other attrition percentages according to education levels: 39% of employees has the bachelor’s degree and 17.3% attrition. 19.2% of employees has the college degree and 15.6% attrition. 27.1% of employees has the master’s degree and 14.6% attrition. 3.3% of employees has the doctorate degree and 10.4% attrition.
+- 11.6% of employees has below college degree and highest attrition percentage(18.2%). Other attrition percentages according to education levels: 39% of employees has the bachelor’s degree and 17.3% attrition. 19.2% of employees has the college degree and 15.6% attrition. 27.1% of employees has the master’s degree and 14.6% attrition. 3.3% of employees has the doctorate degree and 10.4% attrition.
 
--According to the education field, 1.8% of employees has Human Resources education field and highest attrition(25.9%). 8.9% employees have Technical degree education field and 24.2% attrition. 10.8% of employees has Marketing education field and 22% attrition. Life Sciences, Medical and other education fields are affected respectively.
+- According to the education field, 1.8% of employees has Human Resources education field and highest attrition(25.9%). 8.9% employees have Technical degree education field and 24.2% attrition. 10.8% of employees has Marketing education field and 22% attrition. Life Sciences, Medical and other education fields are affected respectively.
 
--61.2% of employees has environment satisfaction at very high/high level in the company. 19.3% of employees has low environment satisfaction and 25.3% attrition.
+- 61.2% of employees has environment satisfaction at very high/high level in the company. 19.3% of employees has low environment satisfaction and 25.3% attrition.
 
--Male employees(60% of company) are more likely to leave the company than female employees.
+- Male employees(60% of company) are more likely to leave the company than female employees.
 
--68.8% of employees has high/very high job involvement in the company. As the job involvement increases, the attrition percentage decreases respectively.
+- 68.8% of employees has high/very high job involvement in the company. As the job involvement increases, the attrition percentage decreases respectively.
 
--37% of employees has job level-1 and 26.3% attrition. Job level-3(14.8% of the company) and job level-2(36.3% of the company) are affected mostly by %14.7 and 9.7% attrition after job level-1 respectively.
+- 37% of employees has job level-1 and 26.3% attrition. Job level-3(14.8% of the company) and job level-2(36.3% of the company) are affected mostly by %14.7 and 9.7% attrition after job level-1 respectively.
 
--5.6% of employees works as Sales Representative and they have the highest attrition(39.8%). Laboratory Technician (17.6% of employees) and Human Resources (3.5% of employees) job role follows the Sales Representative attrition percentage by 23.9% and 23.07% respectively. Besides those job roles, Sale Executive (22.8% of the employees have 17.5% attrition) and Research Scientist (19.9% of employees have 16.1% attrition) have the higher attrition percentage than others.
+- 5.6% of employees works as Sales Representative and they have the highest attrition(39.8%). Laboratory Technician (17.6% of employees) and Human Resources (3.5% of employees) job role follows the Sales Representative attrition percentage by 23.9% and 23.07% respectively. Besides those job roles, Sale Executive (22.8% of the employees have 17.5% attrition) and Research Scientist (19.9% of employees have 16.1% attrition) have the higher attrition percentage than others.
 
--61.3% of employees has high/very high job satisfaction in the company. 19.7% of employees have low job satisfaction and highest attrition percentage(22.8%). As the job satisfaction increase, attrition percentage decreases. Medium(19% of employees) and high(30% of employees) job satisfaction has approximately same attrition percentage(16.5%).
+- 61.3% of employees has high/very high job satisfaction in the company. 19.7% of employees have low job satisfaction and highest attrition percentage(22.8%). As the job satisfaction increase, attrition percentage decreases. Medium(19% of employees) and high(30% of employees) job satisfaction has approximately same attrition percentage(16.5%).
 
--32% of employees are single and has the highest attrition percentage(25.5%).
+- 32% of employees are single and has the highest attrition percentage(25.5%).
 
--26.9% of employees have 1000-3000 dollars monthly income and highest attrition percentage(47.7%). Other monthly income employees have been affected by attrition in the same percentage level except 9000-11000 dollars monthly income level. That group is 5.6% of employees and has 18.6% attrition.
+- 26.9% of employees have 1000-3000 dollars monthly income and highest attrition percentage(47.7%). Other monthly income employees have been affected by attrition in the same percentage level except 9000-11000 dollars monthly income level. That group is 5.6% of employees and has 18.6% attrition.
 
--35.4% of employees have one company experience before current company, and they are more likely to leave the company(18.8%). 21% of employees worked in 5 and more companies before this company and have 21.8% attrition. 28.3% of employees have over time and 30.5% attrition in the company while rest of the employees have only 10.4% attrition.
+- 35.4% of employees have one company experience before current company, and they are more likely to leave the company(18.8%). 21% of employees worked in 5 and more companies before this company and have 21.8% attrition. 28.3% of employees have over time and 30.5% attrition in the company while rest of the employees have only 10.4% attrition.
 
--The higher percent salary hike is, the more employees are likely and willingly to stay in the current company.
+- The higher percent salary hike is, the more employees are likely and willingly to stay in the current company.
 
--Performance rating has two category such as 3 and 4. 84.6% of employees are in the performance rating 3 group and 16.08 attrition. The rest of the employees are in performance rating 4 group and their attrition percentage(%16.37) is a little bit higher than previous group.
+- Performance rating has two category such as 3 and 4. 84.6% of employees are in the performance rating 3 group and 16.08 attrition. The rest of the employees are in performance rating 4 group and their attrition percentage(%16.37) is a little bit higher than previous group.
 
--18.8% of employees have low relationship satisfaction and highest attrition percentage(20.7%). The rest of the employees’ attrition percentage is at 15% band level.
+- 18.8% of employees have low relationship satisfaction and highest attrition percentage(20.7%). The rest of the employees’ attrition percentage is at 15% band level.
 
--43% of employees has zero stock option level and highest attrition percentage(24.4%). There is a sharp decrease in attrition percentage until stock option level-3. %5.7 of employees has stock option level-3 and 17.4% attrition.
+- 43% of employees has zero stock option level and highest attrition percentage(24.4%). There is a sharp decrease in attrition percentage until stock option level-3. %5.7 of employees has stock option level-3 and 17.4% attrition.
 
--As the total working years increases, the attrition percentage decreases in the relevant experience groups.
+- As the total working years increases, the attrition percentage decreases in the relevant experience groups.
 
--70.6% of employees have 2-3 times training in the previous year and have 17.9% and 14.1% attrition respectively. 3.7% of employees does not have training times in the previous year and has the highest attrition percentage(27.8%). 8.3% of employees have 4 times training last year and have 21.1% attrition. The rest of the employees’ attrition percentage is around between 9% and 12%. 84.2% of employees have good or better work life balance, and 16.7% and 14.2% attrition respectively. 5.4% of employees have bad work life balance and the highest attrition percentage(31.3%). As the years at company and current role increase, attrition percentage decreases in the company.
+- 70.6% of employees have 2-3 times training in the previous year and have 17.9% and 14.1% attrition respectively. 3.7% of employees does not have training times in the previous year and has the highest attrition percentage(27.8%). 8.3% of employees have 4 times training last year and have 21.1% attrition. The rest of the employees’ attrition percentage is around between 9% and 12%. 84.2% of employees have good or better work life balance, and 16.7% and 14.2% attrition respectively. 5.4% of employees have bad work life balance and the highest attrition percentage(31.3%). As the years at company and current role increase, attrition percentage decreases in the company.
 
--39.5% of employees leaves the company before fulfilling one year since their last promotion. 24.3% of employees fulfilling one year since their last promotion has the 13.7 attrition percentage. 7 years since last promotion employee group (5.2%) has the highest attrition(21.1%) in its individual group.
+- 39.5% of employees leaves the company before fulfilling one year since their last promotion. 24.3% of employees fulfilling one year since their last promotion has the 13.7 attrition percentage. 7 years since last promotion employee group (5.2%) has the highest attrition(21.1%) in its individual group.
 
--Most of the employee(17.9%) quit the company before completing their first year with their current manager(32.3% attrition). Other group who leaves the company most is the ones who work two years with current manager(23.4% of employees with 14.5% attrition).
+- Most of the employee(17.9%) quit the company before completing their first year with their current manager(32.3% attrition). Other group who leaves the company most is the ones who work two years with current manager(23.4% of employees with 14.5% attrition).
 
 I also checked the 'Employee Number', 'Daily Rate', 'Hourly Rate' and 'Monthly Rate' features as I did the in previous features of dataset. But there is nothing significant to comment or visualize about these features.
 
@@ -177,31 +177,31 @@ I also checked the 'Employee Number', 'Daily Rate', 'Hourly Rate' and 'Monthly R
 
 # RECOMMENDATIONS FOR THE COMPANY:
 
--Based upon the insights I would give the followingrec
+- Based upon the insights I would give the followingrec
 
--28.3% of employees have over time work in the company and 30.5% of those employees leave the company. As it is also reflected in the model, employees working overtime are significantly more likely to resign. Therefore, the company should understand the reason why they are working overtime. Is it for too high workload or are employees' qualifications not enough to complete the scheduled tasks on time? Maybe there might be some other reasons behind that. Our recommendation will be to understand the reason(s) for overtime with detail research and take appropriate measures to reduce the factors behind this attrition factor.
+- 28.3% of employees have over time work in the company and 30.5% of those employees leave the company. As it is also reflected in the model, employees working overtime are significantly more likely to resign. Therefore, the company should understand the reason why they are working overtime. Is it for too high workload or are employees' qualifications not enough to complete the scheduled tasks on time? Maybe there might be some other reasons behind that. Our recommendation will be to understand the reason(s) for overtime with detail research and take appropriate measures to reduce the factors behind this attrition factor.
 
--18.8% of the employees travels frequently, and they have the highest attrition percentage(25%). The company should question what makes traveling a burden on their employees. The company should balance the travel status and if necessary, there might be some adjustments on the job description in terms of traveling. The company may use some extra incentives to motivate their employees who are supposed to travel.
+- 18.8% of the employees travels frequently, and they have the highest attrition percentage(25%). The company should question what makes traveling a burden on their employees. The company should balance the travel status and if necessary, there might be some adjustments on the job description in terms of traveling. The company may use some extra incentives to motivate their employees who are supposed to travel.
 
--21% of employees worked in 5 and more companies before this company and have 21.8% attrition. This is an area where HR should be aware of. HR should question the employee candidate why the employee quits the previous job and get in touch with previous company to have information about the applying employees. Besides that, the company should take precautionary measurements to keep their employees in their current role after they hire new employees.
+- 21% of employees worked in 5 and more companies before this company and have 21.8% attrition. This is an area where HR should be aware of. HR should question the employee candidate why the employee quits the previous job and get in touch with previous company to have information about the applying employees. Besides that, the company should take precautionary measurements to keep their employees in their current role after they hire new employees.
 
--32% of employees are single and has the highest attrition percentage(25.5%). The company should be aware of this important factor and have strategy to deal with this groups' performance.
+- 32% of employees are single and has the highest attrition percentage(25.5%). The company should be aware of this important factor and have strategy to deal with this groups' performance.
 
 - If the year increases since the employees' last promotion, the attrition percentage also displays increase. Especially, 7 years since last promotion employee group (5.2%) has the highest attrition(21.1%) in its individual group. For that reason, the company review their promotion policy, and maybe define the company's expectations from their employees and make clear to all employees how and when they may be promoted.
 
--5.6% of employees works as Sales Representative and 17.6% of employees works as Laboratory Technician. They have 39.8% and 17.6% attrition percentage respectively. These two-job roles should be questioned, and the company should find the reason(s) why these job roles face more attrition rate than all others and take necessary actions.
+- 5.6% of employees works as Sales Representative and 17.6% of employees works as Laboratory Technician. They have 39.8% and 17.6% attrition percentage respectively. These two-job roles should be questioned, and the company should find the reason(s) why these job roles face more attrition rate than all others and take necessary actions.
 
--Beside those factors above, there are some other indicators which keep employees in the company. These factors are stated below.
+- Beside those factors above, there are some other indicators which keep employees in the company. These factors are stated below.
 
--Total working years in the company,
--Years in current role,
--Environment satisfaction,
--Medical education field,
--job satisfaction,
--Job involvement,
--Years with current manager,
--Work life balance,
--Age.
+- Total working years in the company,
+- Years in current role,
+- Environment satisfaction,
+- Medical education field,
+- job satisfaction,
+- Job involvement,
+- Years with current manager,
+- Work life balance,
+- Age.
 
 The company should primarily try to increase the effectiveness of those factors. As a result, it will yield to the decrease in the attrition rate.
 
