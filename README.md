@@ -16,8 +16,8 @@ Data Specification: The dataset has 1470 rows and 35 columns. Rows are observati
    
 **FEATURES:**
 
-**Age:**  
-  ![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/442cbfb4-da0a-4081-a67f-a03c7f438f94)  
+**AGE :**  
+  <div align=”center”>![download](https://github.com/anuragsrivastav-dtu/Analysis-of-factors-for-employee-attrition/assets/140643875/442cbfb4-da0a-4081-a67f-a03c7f438f94)</div>  
 
 In 18-21 age group, young employees are more likely to leave the company. Their attrition proportion to their age group is approximately 53.7% (22 out of 41) and that makes up 9% of all attrition (22 out of 237). If we evaluate overall attrition number in the company, 26-35 age group's attrition number is the highest comparing to other age groups. In this age group, we have 19.1 % of employee attrition(116 out 606). That makes up approximately 49% of all attrition in the company (116 out of 237).35-60 age group generally prefers to secure their job in the same company.  
 Business Travel:  
